@@ -27,7 +27,7 @@
         <li>Sayfa, otomatik olarak cihazınızın ekran boyutuna uygun olarak düzenlenir.</li>
     </ol>
 <h2>İletişim</h2>
-    <p>Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, lütfen <a href="hasancelikjob@gmail.com">hasancelikjob@gmail.com</a> adresinden bize ulaşın.</p>
+    <p>Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, lütfen bize ulaşın.</p>
 </body>
 </html>
 
